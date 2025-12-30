@@ -13,6 +13,7 @@ https://docs.google.com/document/d/1AG3eZFqgRZ8F0MJZ_oeHicylfvvvIhu11kmL3aaQRbc/
 - Google Sheet
 - SQL
 - Google Docs
+- Superbase
 
 ## Key Insights
 - Top establishments by order count
