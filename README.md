@@ -15,10 +15,13 @@ https://docs.google.com/document/d/1AG3eZFqgRZ8F0MJZ_oeHicylfvvvIhu11kmL3aaQRbc/
 - Google Docs
 - Superbase
 
-## Key Insights
-- Top establishments by order count
-- Average time_taken for each establishments order.
-- Top establishments spent the most on.
+## Key Insights 
+### Check queries.sql in docs to run each of the queries below.
+- Top 10 most expensive items and how many times they were ordered.
+- How much each month made and their order count.
+- Top food_category and how much each earns.
+- Average time_taken for the top 10 most time consuming establishments.
+- Top 10 establishments spent the most on.
 
 ## Data Privacy
 All personal identifiers have been removed.
